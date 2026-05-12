@@ -1,7 +1,7 @@
 # Semana 7 - Patrones de Comportamiento
 
 ## Curso
-Lenguajes de Programación Orientada a Objetos II
+Programación Orientada a Objetos II
 
 ## Estudiante
 Handdy Ronald Curasi Zevallos
